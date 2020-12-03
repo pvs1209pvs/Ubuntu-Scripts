@@ -5,6 +5,9 @@ sudo dpkg -i google-chrome-stable_current_amd64.deb
 rm google-chrome-stable_current_amd64.deb
 
 sudo apt install git
+sudo apt install cmake
+sudo apt install g++
+sudo apt install valgrind
 
 sudo snap install --classic code 
 sudo snap install --classic atom
