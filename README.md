@@ -1,4 +1,4 @@
-# Ubuntu_Scripts
+# Ubuntu-Scripts
 Ubuntu scripts to make your life easy.
 
 ## Features 
